@@ -1,0 +1,30 @@
+Z:\repos\Viginere_Cipher\bin\Debug\Viginere_Cipher.exe.config
+Z:\repos\Viginere_Cipher\bin\Debug\Viginere_Cipher.exe
+Z:\repos\Viginere_Cipher\bin\Debug\Viginere_Cipher.pdb
+Z:\repos\Viginere_Cipher\obj\Debug\Viginere_Cipher.csprojAssemblyReference.cache
+Z:\repos\Viginere_Cipher\obj\Debug\App.g.cs
+Z:\repos\Viginere_Cipher\obj\Debug\Viginere_Cipher_MarkupCompile.cache
+Z:\repos\Viginere_Cipher\obj\Debug\Viginere_Cipher_MarkupCompile.lref
+Z:\repos\Viginere_Cipher\obj\Debug\Viginere_Cipher.g.resources
+Z:\repos\Viginere_Cipher\obj\Debug\Viginere_Cipher.Properties.Resources.resources
+Z:\repos\Viginere_Cipher\obj\Debug\Viginere_Cipher.csproj.GenerateResource.cache
+Z:\repos\Viginere_Cipher\obj\Debug\Viginere_Cipher.csproj.CoreCompileInputs.cache
+Z:\repos\Viginere_Cipher\obj\Debug\Viginere_Cipher.exe
+Z:\repos\Viginere_Cipher\obj\Debug\Viginere_Cipher.pdb
+Z:\repos\Viginere_Cipher\obj\Debug\DeCipherWindow.g.cs
+Z:\repos\Viginere_Cipher\obj\Debug\DeCipherWindow.baml
+E:\Защита информации лаб\Viginere_Cipher\bin\Debug\Viginere_Cipher.exe.config
+E:\Защита информации лаб\Viginere_Cipher\bin\Debug\Viginere_Cipher.exe
+E:\Защита информации лаб\Viginere_Cipher\bin\Debug\Viginere_Cipher.pdb
+E:\Защита информации лаб\Viginere_Cipher\obj\Debug\Viginere_Cipher.csprojAssemblyReference.cache
+E:\Защита информации лаб\Viginere_Cipher\obj\Debug\DeCipherWindow.g.cs
+E:\Защита информации лаб\Viginere_Cipher\obj\Debug\App.g.cs
+E:\Защита информации лаб\Viginere_Cipher\obj\Debug\Viginere_Cipher_MarkupCompile.cache
+E:\Защита информации лаб\Viginere_Cipher\obj\Debug\Viginere_Cipher_MarkupCompile.lref
+E:\Защита информации лаб\Viginere_Cipher\obj\Debug\DeCipherWindow.baml
+E:\Защита информации лаб\Viginere_Cipher\obj\Debug\Viginere_Cipher.g.resources
+E:\Защита информации лаб\Viginere_Cipher\obj\Debug\Viginere_Cipher.Properties.Resources.resources
+E:\Защита информации лаб\Viginere_Cipher\obj\Debug\Viginere_Cipher.csproj.GenerateResource.cache
+E:\Защита информации лаб\Viginere_Cipher\obj\Debug\Viginere_Cipher.csproj.CoreCompileInputs.cache
+E:\Защита информации лаб\Viginere_Cipher\obj\Debug\Viginere_Cipher.exe
+E:\Защита информации лаб\Viginere_Cipher\obj\Debug\Viginere_Cipher.pdb

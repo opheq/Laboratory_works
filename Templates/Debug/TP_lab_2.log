@@ -1,0 +1,12 @@
+﻿  Source.cpp
+Z:\repos\TP_lab_2\TP_lab_2\Header.h(12,26): warning C4244: инициализация: преобразование "T" в "unsigned int", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+Z:\repos\TP_lab_2\TP_lab_2\Header.h(10): message : во время компиляции функции-члена класс шаблон "Arr<double>::Arr(void)"
+Z:\repos\TP_lab_2\TP_lab_2\Source.cpp(16): message : выполняется компиляция ссылки на экземпляр шаблон функции "Arr<double>::Arr(void)"
+Z:\repos\TP_lab_2\TP_lab_2\Source.cpp(16): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Arr<double>"
+Z:\repos\TP_lab_2\TP_lab_2\Header.h(89): warning C4715: Arr<int>::Proizvedenie: значение возвращается не при всех путях выполнения
+Z:\repos\TP_lab_2\TP_lab_2\Header.h(89): warning C4715: Arr<double>::Proizvedenie: значение возвращается не при всех путях выполнения
+  TP_lab_2.vcxproj -> Z:\repos\TP_lab_2\Debug\TP_lab_2.exe

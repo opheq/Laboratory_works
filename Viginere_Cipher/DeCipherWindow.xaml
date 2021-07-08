@@ -1,0 +1,28 @@
+﻿<Window x:Class="Viginere_Cipher.DeCipherWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Viginere_Cipher"
+        mc:Ignorable="d"
+        Title="Шифрование Виженера" Height="517" Width="1019" ResizeMode="CanMinimize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="5*"/>
+            <ColumnDefinition Width="55*"/>
+            <ColumnDefinition Width="15*"/>
+            <ColumnDefinition Width="375*"/>
+            <ColumnDefinition Width="48*"/>
+            <ColumnDefinition Width="52*"/>
+            <ColumnDefinition Width="461*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="EncryptKey" Content="Зашифровать" HorizontalAlignment="Left" Margin="310,105,0,0" VerticalAlignment="Top" Width="75" Grid.Column="6" Click="EncryptKey_Click" IsEnabled="False"/>
+        <TextBox x:Name="Text" HorizontalAlignment="Left" Height="485" TextWrapping="Wrap" VerticalAlignment="Top" Width="650" Grid.ColumnSpan="7"/>
+        <TextBox x:Name="Key" Grid.Column="6" HorizontalAlignment="Left" Height="23" Margin="265,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBlock Grid.Column="6" HorizontalAlignment="Left" Margin="115,70,0,0" TextWrapping="Wrap" Text="Предполагаемый ключ" VerticalAlignment="Top" Height="25" Width="130"/>
+        <TextBox x:Name="Analysis" Grid.Column="6" HorizontalAlignment="Left" Height="323" Margin="105,157,0,0" TextWrapping="Wrap" Text="Здесь будет выводиться помощь по расшифровке. Честно, пока не понятно, какую помощь тут напивать" VerticalAlignment="Top" Width="350" IsEnabled="False"/>
+        <TextBlock Grid.Column="6" HorizontalAlignment="Left" Margin="265,134,0,0" TextWrapping="Wrap" Text="Помощь" VerticalAlignment="Top"/>
+        <Button x:Name="DecryptKey" Content="Расшифровать" Grid.Column="6" HorizontalAlignment="Left" Margin="155,105,0,0" VerticalAlignment="Top" Width="75" Click="DecryptKey_Click"/>
+
+    </Grid>
+</Window>
