@@ -1,0 +1,10 @@
+﻿  ChangeForm.cpp
+  Window.cpp
+d:\microsoft visual studio\progs\programm\programm\window.h(43): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\microsoft visual studio\progs\programm\programm\window.h(522): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\microsoft visual studio\progs\programm\programm\window.h(534): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\microsoft visual studio\progs\programm\programm\window.cpp(10): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  Создание кода...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  ChangeForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+LINK : fatal error LNK1561: Єюўър тїюфр фюыцэр с√Є№ юяЁхфхыхэр

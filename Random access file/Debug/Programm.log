@@ -1,0 +1,9 @@
+﻿  ChangeForm.cpp
+  Window.cpp
+Z:\repos\ProjectC++\Programm\Programm\Window.h(46,21): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+Z:\repos\ProjectC++\Programm\Programm\Window.h(585,35): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+Z:\repos\ProjectC++\Programm\Programm\Window.h(553,5): warning C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
+Z:\repos\ProjectC++\Programm\Programm\Window.cpp(10,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  Создание кода...
+  ChangeForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Programm.vcxproj -> Z:\repos\ProjectC++\Programm\Debug\Programm.exe

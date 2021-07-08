@@ -1,0 +1,7 @@
+Z:\repos\ProjectC++\Programm\Programm\Debug\Programm.vcxprojAssemblyReference.cache
+Z:\repos\ProjectC++\Programm\Programm\Debug\Programm.ChangeForm.resources
+Z:\repos\ProjectC++\Programm\Programm\Debug\Programm.ErrorForm.resources
+Z:\repos\ProjectC++\Programm\Programm\Debug\Programm.SearchDialog.resources
+Z:\repos\ProjectC++\Programm\Programm\Debug\Programm.SearchResult.resources
+Z:\repos\ProjectC++\Programm\Programm\Debug\Programm.Window.resources
+Z:\repos\ProjectC++\Programm\Programm\Debug\Programm.vcxproj.GenerateResource.cache
